@@ -1,0 +1,102 @@
+SERRATEC RTIC-SW 2022.2
+Lógica de Programação - Débora
+Thamires Ouverney Darci
+9/8/22
+------------------------------------------------------------------------------------------------------------------------------------
+
+Atividade 1: Bolo
+
+
+Ingredientes:
+
+	-1° etapa: Separe 1 açúcar
+	-2° etapa: Separe 1 leite
+	-3° etapa: Separe 1 margarina
+	-4° etapa: Separe 3 ovos
+	-5° etapa: Separe 1 farinha de trigo
+	-6° etapa: Separe 1 fermento
+	-7° etapa: Separe 1 liquidificador
+	-8° etapa: Separe 1 colher
+	-9° etapa: Separe 1 xícara
+	-10° etapa: Separe 1 forma
+	-11° etapa: Separe 1 forno
+
+Preparo:
+
+	-12° etapa: Pegue 1 xícara
+	-13° etapa: Pegue o açucar
+	-14° etapa: Encha a xícara com o açúcar
+	-15° etapa: Pegue o liquidificador
+	-16° etapa: Despeje a xícara no Liquidificador
+
+	-17° etapa: Pegue a colher
+	-18° etapa: Pegue a margarina
+	-19° etapa: Encha a colher com a margarina
+	-20° etapa: Despeje a colher no liquidificador
+	-21° etapa: Pegue a colher
+	-22° etapa: Pegue a margarina
+	-23° etapa: Encha a colher com a margarina
+	-24° etapa: Pegue o liquidificador
+	-25° etapa: Despeje a colher no liquidificador
+
+	-26° etapa: Pegue 3 ovos
+	-27° etapa: Quebre os ovos E despeje no liquidificador
+	-28° etapa: Lique o liquidificador
+	-29° etapa: Após 2 minuto desligue o liquidificador
+
+	-30° etapa: Pegue a farinha de trigo
+	-31° etapa: Pegue uma xícara
+	-32° etapa: Encha a Xícara com a farinha de trigo
+	-33° etapa: Pegue o liquidificador
+	-34° etapa: Despeje a xícara no Liquidificador
+	-35° etapa: Pegue a farinha de trigo
+	-36° etapa: Pegue uma xícara
+	-37° etapa: Encha a Xícara com a farinha de trigo
+	-38° etapa: Pegue o liquidificador
+	-39° etapa: Despeje a xícara no Liquidificador
+
+	-40° etapa: Pegue a xícara
+	-41° etapa: Pegue um leite
+	-42° etapa: Encha a xícara com o leite
+	-43° etapa: Pegue o liquidificador
+	-44° etapa: Despeje a xícara no liquidificador
+	-45° etapa: Pegue a xícara
+	-46° etapa: Encha a metade da xícara com o leite
+	-47° etapa: Pegue o liquidificador
+	-48° etapa: Despeje a xícara no liquidificador
+
+	-49° etapa: Pegue a colher
+	-50° etapa: Pegue o fermento
+	-51° etapa: Encha a metade da colher com o fermento
+	-52° etapa: Pegue o liquidificador
+	-53° etapa: Despeje a colher no liquidificador
+	-54° etapa: Ligue o liquidificador
+	-55° etapa: Após 3 minutos desligue o liquidificador
+
+Finalização:
+
+	-56° etapa: Pegue a margarina
+	-57° etapa: Pegue a colher
+	-58° etapa: Encha a colher com a margarina
+	-59° etapa: Pegue a forma
+	-60° etapa: Despeje E espalhe a colher na forma
+
+	-61° etapa: Pegue a forma
+	-62° etapa: Pegue o liquidificador
+	-63° etapa: Despeje o liquidificador na forma
+
+	-64° etapa: Pegue a forma 
+	-65° etapa: Pegue o forno
+	-66° etapa: Coloque a forma no forno
+	-67° etapa: Ligue o forno
+	-68° etapa: Após 35 minutos desligue o forno
+
+	-69° etapa: Pegue a forma E sirva-se
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
